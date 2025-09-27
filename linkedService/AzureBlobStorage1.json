@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "AzureBlobStorage",
 		"typeProperties": {
-			"containerUri": "https://dbtutorialrg.blob.core.windows.net/source",
+			"containerUri": "https://adfstorage122g.blob.core.windows.net/source",
 			"authenticationType": "Anonymous"
 		},
 		"connectVia": {
